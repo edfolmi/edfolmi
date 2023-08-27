@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edfolmi&layout=compact&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edfolmi&layout=compact&show_icons=true&title_color=89a390&icon_color=89a390&text_color=89a390&theme=transparent" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=edfolmi&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edfolmi&show_icons=true&title_color=89a390&icon_color=89a390&text_color=89a390&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
 </div>
 
 <h2 align="center"> Profile 👨‍💻 </h2>
